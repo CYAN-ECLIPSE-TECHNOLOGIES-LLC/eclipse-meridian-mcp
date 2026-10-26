@@ -1,0 +1,8 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/meridian",
+ "title": "Eclipse Meridian MCP",
+ "description": "Governed telehealth operations \u2014 jurisdiction-gated encounters, signed-note integrity, PHI access",
+ "version": "0.1.0",
+ "websiteUrl": "https://eclipsebazaar.com"
+}
